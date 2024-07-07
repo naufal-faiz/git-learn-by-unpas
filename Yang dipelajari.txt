@@ -26,3 +26,10 @@ Untuk commit file ke repositori tetapi kurang lengkap
 
 9. git commit m "pesan untuk commitnya"
 Digunakan untuk memberikan pesan saat commit
+
+10. git log
+untuk melihat log atau history commit, git log bisa mencari file tertentu
+dengan mengetik git log -- <file>
+
+11. git checkout
+untuk mengembalikan file dengan mengetikan git checkout <5 kode pertama dari kode kommit> -- <file>
