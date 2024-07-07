@@ -1,0 +1,21 @@
+Sintaks
+1. git -v
+untuk melihat versi git
+
+2. git init
+untuk inisialisasi repositori dan membuatnya di folder terpilih
+
+3. pwd
+untuk melihat folder (singkatan PWD adalah Print Working Directory)
+
+4. cd
+untuk change directory
+
+5. ls
+untuk melihat list
+
+6. git status
+untuk melihat status
+
+7. git add <file>
+Untuk menambahkan file ke repositori
