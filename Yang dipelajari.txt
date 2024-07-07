@@ -18,4 +18,11 @@ untuk melihat list
 untuk melihat status
 
 7. git add <file>
-Untuk menambahkan file ke repositori
+Untuk menambahkan file ke repositori, git add . akan menambahkan semua file secara langsung termasuk
+yang diperbarui
+
+8. Git commit
+Untuk commit file ke repositori tetapi kurang lengkap
+
+9. git commit m "pesan untuk commitnya"
+Digunakan untuk memberikan pesan saat commit
