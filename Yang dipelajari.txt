@@ -52,3 +52,10 @@ digunakan untuk ganti branch
 
 17. Fast Forward Merge
 Jalur langsung untuk membuat merging. 
+
+18. git branch -d <nama branch>
+digunakan untuk menghapus branch
+
+19. git branch --merged
+digunakan untuk melihat branch yang sudah bergabung
+
