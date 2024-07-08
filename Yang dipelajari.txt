@@ -37,3 +37,14 @@ untuk mengembalikan file dengan mengetikan git checkout <5 kode pertama dari kod
 12. git commit -am "pesan"
 digunakan jika suatu file yang berubah sudah dicommit sebelumnya karena singkatan dari am adalah add dan 
 message
+
+13. git branch
+Digunakan untuk melihat branch apa saja yang ada dan sedang aktif, dan bisa digunakan juga untuk membuat branch baru
+
+14. git log --all --decorate --online --graph
+digunakan untuk menampilkan alur branch  
+
+15. alias
+digunakan untuk membuat alias pada perintah yang sangat panjang supaya menjadi singkat
+
+16. git checkout untuk ganti branch
