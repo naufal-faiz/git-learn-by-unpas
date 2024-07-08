@@ -48,3 +48,6 @@ digunakan untuk menampilkan alur branch
 digunakan untuk membuat alias pada perintah yang sangat panjang supaya menjadi singkat
 
 16. git checkout untuk ganti branch
+digunakan untuk ganti branch
+
+17. 
