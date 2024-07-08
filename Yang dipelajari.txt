@@ -6,7 +6,7 @@ untuk melihat versi git
 untuk inisialisasi repositori dan membuatnya di folder terpilih
 
 3. pwd
-untuk melihat folder (singkatan PWD adalah Print Working Directory)
+untuk melihat folder yang saat ini berjalan (singkatan PWD adalah Print Working Directory)
 
 4. cd
 untuk change directory
