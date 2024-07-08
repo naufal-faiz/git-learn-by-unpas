@@ -50,4 +50,5 @@ digunakan untuk membuat alias pada perintah yang sangat panjang supaya menjadi s
 16. git checkout untuk ganti branch
 digunakan untuk ganti branch
 
-17. 
+17. Fast Forward Merge
+Jalur langsung untuk membuat merging. 
