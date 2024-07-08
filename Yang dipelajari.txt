@@ -60,4 +60,4 @@ digunakan untuk menghapus branch
 digunakan untuk melihat branch yang sudah bergabung
 
 20. three way merged
-digunakan untuk melihat alur merging
+digunakan untuk melihat alur merging atau strategi rekursif
