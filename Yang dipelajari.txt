@@ -59,3 +59,5 @@ digunakan untuk menghapus branch
 19. git branch --merged
 digunakan untuk melihat branch yang sudah bergabung
 
+20. three way merged
+digunakan untuk melihat alur merging
