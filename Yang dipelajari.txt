@@ -33,3 +33,7 @@ dengan mengetik git log -- <file>
 
 11. git checkout
 untuk mengembalikan file dengan mengetikan git checkout <5 kode pertama dari kode kommit> -- <file>
+
+12. git commit -am "pesan"
+digunakan jika suatu file yang berubah sudah dicommit sebelumnya karena singkatan dari am adalah add dan 
+message
