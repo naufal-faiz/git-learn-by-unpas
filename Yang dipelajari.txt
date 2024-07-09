@@ -41,7 +41,7 @@ message
 13. git branch
 Digunakan untuk melihat branch apa saja yang ada dan sedang aktif, dan bisa digunakan juga untuk membuat branch baru
 
-14. git log --all --decorate --online --graph
+14. git log --all --decorate --oneline --graph
 digunakan untuk menampilkan alur branch  
 
 15. alias
@@ -61,3 +61,8 @@ digunakan untuk melihat branch yang sudah bergabung
 
 20. three way merged
 digunakan untuk melihat alur merging atau strategi rekursif
+
+21. Merge conflict
+penyebabnya adalah kita mengerjakan sesuatu di line yang sama dalam 2 branch yang berbeda
+
+22. 
