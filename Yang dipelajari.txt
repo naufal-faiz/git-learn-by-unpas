@@ -41,7 +41,7 @@ message
 13. git branch
 Digunakan untuk melihat branch apa saja yang ada dan sedang aktif, dan bisa digunakan juga untuk membuat branch baru
 
-14. git log --all --decorate --online --graph
+14. git log --all --decorate --oneline --graph
 digunakan untuk menampilkan alur branch  
 
 15. alias
