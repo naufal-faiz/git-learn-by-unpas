@@ -65,4 +65,6 @@ digunakan untuk melihat alur merging atau strategi rekursif
 21. Merge conflict
 penyebabnya adalah kita mengerjakan sesuatu di line yang sama dalam 2 branch yang berbeda
 
-22. 
+22. Checkout untuk kembali ke keadaan sebelumnya
+dengan melakukan git log, lalu memilih salah satu commit, mengambil 7 kode pertama
+lalu checkout dengan 7 kode pertama tersebut. Untuk kembali lakukan saja git checkout master
