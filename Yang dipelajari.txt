@@ -68,3 +68,43 @@ penyebabnya adalah kita mengerjakan sesuatu di line yang sama dalam 2 branch yan
 22. Checkout untuk kembali ke keadaan sebelumnya
 dengan melakukan git log, lalu memilih salah satu commit, mengambil 7 kode pertama
 lalu checkout dengan 7 kode pertama tersebut. Untuk kembali lakukan saja git checkout master
+
+23. Git remote
+membuat clone repo dari github menggunakan http, setelah menekan tombol code berwarna hijau
+
+24. Melakukan commit menggunakan git remote
+Jika melakukan commit pada git remote, branch origin akan tertinggal dan untuk mengatasinya adalah
+dengan git push
+
+25. Cara menghubungkan remote git dengan github melalui http
+dengan sintaks git remote linkYangDiambil
+
+26. Pindah akun github melalui git
+Apabila ingin akun yang melakukan push adalah akun yang sama persis dengan yang sedang digunakan di
+github, kita perlu memastikan email dan username pada akun github kita lalu login menggunakan git dengan
+cara git config --global user.name "nama user" & git config --global user.email "email akun github".
+
+27. Cara membuat repository yang terhubung ke github
+Jika ingin membuat repo untuk folder kita, pastikan untuk tidak menambahkan readme.md lalu hubungkan folder git
+melalui git remote add origin(bisa diubah) linkRepoDariGithub
+
+28. git remote untuk pengecekan
+Jika ingin melihat nama git remote yang digunakan, maka menggunakan sintaks "git remote"
+
+29. git remote -v
+untuk melakukan pengecekan nama remotenya dan juga melihat linknya yang digunakan baik untuk fetch atau push
+
+30. git push -u origin master
+untuk mengirim data ke github melalui git
+
+31. git fetch
+Melakukan checking pada repository yang ada pada remote
+
+32. git pull
+digunakan untuk mengambil file dari github
+
+33. Melakukan clone pada git
+git clone LinkYangDiGithub
+
+34. CARA MELAKUKAN MERGE PADA GIT (LUPA DIAWAL)
+masuk ke branch utama atau master, lalu lakukan git merge <nama branch>
