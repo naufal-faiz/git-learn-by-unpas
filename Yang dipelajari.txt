@@ -85,7 +85,7 @@ github, kita perlu memastikan email dan username pada akun github kita lalu logi
 cara git config --global user.name "nama user" & git config --global user.email "email akun github".
 
 27. Cara membuat repository yang terhubung ke github
-Jika ingin membuat repo untuk folder kita, pastikan untuk tidak menambahkan readme.md lalu hubungkan folder git
+Jika ingin membuat repo untuk folder kita, pastikan untuk tidak menambahkan readme.md(opsional) lalu hubungkan folder git
 melalui git remote add origin(bisa diubah) linkRepoDariGithub
 
 28. git remote untuk pengecekan
@@ -108,3 +108,20 @@ git clone LinkYangDiGithub
 
 34. CARA MELAKUKAN MERGE PADA GIT (LUPA DIAWAL)
 masuk ke branch utama atau master, lalu lakukan git merge <nama branch>
+
+35. Hosting via github gratis
+membuat domain dengan namaWebsite.github.io
+
+36. Cara menghubungkan repositori domain dengan repositori lain
+dengan membuka repositori lain yang ada di github, yang ingin kita hubungkan. Lalu kesetting dan scroll sampai
+ketemu bagian github pages setelah itu pilih branch sesuai kebutuhan. Maka repo sudah terhubung, tetapi nama bagiannya
+akan menyesuaikan nama repositorinya, untuk mengubahnya dengan menggunakan custom domain yang ada di bagian github pages.
+
+37. Multiple remote
+biasanya terjadi karena ada orang lain yang mencoba untuk melakukan fork
+
+38. Cara mendapatkan update dari repoorang yang kita fork melalui git
+git remote add namaRemote(bebas) linkRepoOrang, setelah itu lakukan fetch ke remote yang baru kita buat
+
+39. Nama remote sangat penting
+Jika melakukan fork, penamaan remote sangat penting
