@@ -131,3 +131,7 @@ git push namaRemote(defaultnya origin) --delete namaBranch
 
 41. gitignore
 Berfungsi untuk mengabaikan commit pada file yang didaftarkan kedalam file gitgnore
+
+42. File yang umumnya di ignore
+bisa kita lihat di github .gitignore di google atau website gitignore.io yang akan memudahkan kita karena
+bisa menyesuaikan os apa, code editor apa dan bahasa pemrograman apa yang sedang digunakan.
