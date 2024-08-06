@@ -120,7 +120,7 @@ akan menyesuaikan nama repositorinya, untuk mengubahnya dengan menggunakan custo
 37. Multiple remote
 biasanya terjadi karena ada orang lain yang mencoba untuk melakukan fork
 
-38. Cara mendapatkan update dari repoorang yang kita fork melalui git
+38. Cara mendapatkan update dari repo orang yang kita fork melalui git
 git remote add namaRemote(bebas) linkRepoOrang, setelah itu lakukan fetch ke remote yang baru kita buat
 
 39. Nama remote sangat penting
