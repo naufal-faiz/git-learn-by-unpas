@@ -125,3 +125,9 @@ git remote add namaRemote(bebas) linkRepoOrang, setelah itu lakukan fetch ke rem
 
 39. Nama remote sangat penting
 Jika melakukan fork, penamaan remote sangat penting
+
+40. Cara menghapus remote branch
+git push namaRemote(defaultnya origin) --delete namaBranch
+
+41. gitignore
+Berfungsi untuk mengabaikan commit pada file yang didaftarkan kedalam file gitgnore

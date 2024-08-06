@@ -1,0 +1,5 @@
+config.txt
+data/
+
+# Semua file exe tidak akan disimpan di git
+*.exe
