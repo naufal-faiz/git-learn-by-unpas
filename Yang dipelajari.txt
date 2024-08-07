@@ -135,3 +135,20 @@ Berfungsi untuk mengabaikan commit pada file yang didaftarkan kedalam file gitgn
 42. File yang umumnya di ignore
 bisa kita lihat di github .gitignore di google atau website gitignore.io yang akan memudahkan kita karena
 bisa menyesuaikan os apa, code editor apa dan bahasa pemrograman apa yang sedang digunakan.
+
+43. Git Rebase
+Mirip seperti merging tetapi memiliki konsep yang berbeda
+
+44. Perbedaan git merge dengan Rebase
+Jika merge biasa akan menambahkan commit baru (dalam artian ini jika kita membuat branch lain selain master, maka master juga tidak akan up to date)
+maka harus dilakukan merging untuk penggabungan, dan biasanya rawan konflik. Jika menggunakan rebase maka master akan terus mengikuti update dari
+branch lainnya.
+
+45. Jika ingin melakukan merging ke master, biasakan di check
+Apabila ada perubahan pada master di github, maka kita harus selalu check terlebih dahulu, caranya adalah dengan menggunakan git pull
+
+46. Cara menggunakan rebase
+sama seperti merge, tetapi pengarahannya seperti ini git rebase namaBranchYangInginDigabung
+
+47. Upload ke web hosting melalui git dan github
+Cari fitur git pada halaman web hosting, lalu berikan link repository github kita, dia akan pull secara otomstis ketika kita push dari local storage
